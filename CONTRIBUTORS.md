@@ -28,3 +28,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [DriftingShadows](https://github.com/DriftingShadows)
+- Place: AUS
+- Bio: Software Dev
+- GitHub: [DriftingShadows](https://github.com/DriftingShadows)
